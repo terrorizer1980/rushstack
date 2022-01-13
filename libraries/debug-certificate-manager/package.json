@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "workspace:*",
-    "node-forge": "~0.7.1",
+    "node-forge": "~1.0.0",
     "sudo": "~1.0.3"
   },
   "devDependencies": {
