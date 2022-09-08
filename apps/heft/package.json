@@ -42,7 +42,7 @@
     "fast-glob": "~3.2.4",
     "glob": "~7.0.5",
     "glob-escape": "~0.0.2",
-    "node-sass": "5.0.0",
+    "node-sass": "7.0.2",
     "postcss": "7.0.32",
     "postcss-modules": "~1.5.0",
     "prettier": "~2.3.0",
