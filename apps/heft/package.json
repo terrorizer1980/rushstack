@@ -44,7 +44,7 @@
     "glob-escape": "~0.0.2",
     "node-sass": "5.0.0",
     "postcss": "7.0.32",
-    "postcss-modules": "~1.5.0",
+    "postcss-modules": "~4.3.0",
     "prettier": "~2.3.0",
     "semver": "~7.3.0",
     "tapable": "1.1.3",
