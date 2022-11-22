@@ -19,6 +19,6 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "fastify": "~3.16.1"
+    "fastify": "~3.29.4"
   }
 }
