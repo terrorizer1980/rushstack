@@ -18,9 +18,9 @@
     "@rushstack/heft": "^0.32.0"
   },
   "dependencies": {
-    "@jest/core": "~25.4.0",
+    "@jest/core": "~27.0.0",
     "@jest/reporters": "~25.4.0",
-    "@jest/transform": "~25.4.0",
+    "@jest/transform": "~27.0.0",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "lodash": "~4.17.15",
