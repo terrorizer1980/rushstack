@@ -18,7 +18,7 @@
     "@rushstack/heft": "^0.32.0"
   },
   "dependencies": {
-    "@jest/core": "~25.4.0",
+    "@jest/core": "~26.0.0",
     "@jest/reporters": "~25.4.0",
     "@jest/transform": "~25.4.0",
     "@rushstack/heft-config-file": "workspace:*",
